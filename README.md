@@ -9,7 +9,7 @@ EasyBuggy is a broken web application in order to understand behavior of bugs an
 
 ![logo](https://raw.githubusercontent.com/wiki/k-tamura/easybuggy/images/mov_eb.gif)
 
-:clock4: Quick Start
+:clock4: Quick Start!!!
 -
 
     $ mvn clean install
